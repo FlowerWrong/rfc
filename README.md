@@ -2,6 +2,8 @@
 
 ## [mqtt](http://mqtt.org/)
 
+MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport.
+
 #### mqtt rfc
 
 * [MQTT 3.1.1 中文版](https://github.com/mcxiaoke/mqtt)
